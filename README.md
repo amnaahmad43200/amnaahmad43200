@@ -15,7 +15,7 @@ MSc Computer Vision, Robotics & Machine Learning @ University of Surrey (2027) �
 ### 🔭 What I'm doing
 - 🎓 MSc dissertation: predicting antipsychotic medication choice from MIMIC-IV EHR data (49,837 admissions, LightGBM + SHAP)
 - 🧠 Interests: computer vision, explainable AI, embedded ML, robotics
-- 🎓 BSc Electrical Engineering — Institute of Space Technology, Islamabad
+- 🎓 MSc Computer Vision, Robotics & Machine Learning @ University of Surrey
 
 
 ### 🛠️ Tech Stack
