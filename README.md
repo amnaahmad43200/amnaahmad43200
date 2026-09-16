@@ -45,9 +45,4 @@ MSc Computer Vision, Robotics & Machine Learning @ University of Surrey (2027) �
 | 🚁 [`crazyflie-flight-control`](https://github.com/amnaahmad43200/crazyflie-flight-control) | Flight control & telemetry logging for the Crazyflie 2.1 drone |
 | 🩺 [`melanoma_classification`](https://github.com/SamranKhalil/melanoma_classification) *(group project)* | Explainable melanoma classification — built the ConvNeXt-Tiny model + Grad-CAM interpretability, as part of a 5-person team |
 
-### 📊 GitHub Stats
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amnaahmad43200&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnaahmad43200&layout=compact&hide_border=true" />
-</p>
