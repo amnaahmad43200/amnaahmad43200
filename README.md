@@ -40,7 +40,7 @@ MSc Computer Vision, Robotics & Machine Learning @ University of Surrey (2027) �
 | Project | Description |
 |---|---|
 | 🚗 [`vehicle_reid`](https://github.com/amnaahmad43200/vehicle_reid) | Hyperparameter tuning for vehicle re-ID on VeRi — 66% mAP, 91.2% Rank-1 |
-| 🖐️ [`Hand2Panda-phone-video-to-LIBERO-retargeting`](https://github.com/amnaahmad43200/Hand2Panda-phone-video-to-LIBERO-retargeting) | Phone videos of a human hand → metric 2D trajectories (ArUco + homography) → motion prior retargeted to a Panda arm in LIBERO; 110/110 simulated runs succeeded, including held-out demos |
+| 🖐️ [`Hand2Panda-phone-video-to-LIBERO-retargeting`](https://github.com/amnaahmad43200/Hand2Panda-phone-video-to-LIBERO-retargeting) | Phone videos of a human hand → metric 2D trajectories (ArUco + homography) → motion prior retargeted to a Panda arm in LIBERO |
 | 🌫️ [`cloud-connected-aqi-network`](https://github.com/amnaahmad43200/cloud-connected-aqi-network) | ESP32 air quality sensor network with cloud ML forecasting, ~97.5% battery savings |
 | 🚁 [`crazyflie-flight-control`](https://github.com/amnaahmad43200/crazyflie-flight-control) | Flight control & telemetry logging for the Crazyflie 2.1 drone |
 | 🤖 [`openmanipulator-pick-and-sort`](https://github.com/amnaahmad43200/openmanipulator-pick-and-sort) | ROS 2 + MoveIt 2 pick-and-sort for the OpenManipulator-X: gripper-based size detection, YAML config, automatic mode, unit tests |
