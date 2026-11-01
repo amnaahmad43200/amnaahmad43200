@@ -15,6 +15,7 @@ MSc Computer Vision, Robotics & Machine Learning @ University of Surrey (2027) �
 ### 🔭 What I'm doing
 - 🎓 MSc dissertation: predicting antipsychotic medication choice from MIMIC-IV EHR data (49,837 admissions, LightGBM + SHAP)
 - 🧠 Interests: computer vision, explainable AI, embedded ML, robotics
+- 🤖 Robotics: ROS 2 / MoveIt 2 manipulation, Crazyflie control, learning motion priors from human video
 - 🎓 MSc Computer Vision, Robotics & Machine Learning @ University of Surrey
 
 
@@ -33,16 +34,14 @@ MSc Computer Vision, Robotics & Machine Learning @ University of Surrey (2027) �
 
 **Tools & Platforms**
 ![ROS](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 📌 Featured Projects
 
 | Project | Description |
 |---|---|
 | 🚗 [`vehicle_reid`](https://github.com/amnaahmad43200/vehicle_reid) | Hyperparameter tuning for vehicle re-ID on VeRi — 66% mAP, 91.2% Rank-1 |
+| 🖐️ [`Hand2Panda-phone-video-to-LIBERO-retargeting`](https://github.com/amnaahmad43200/Hand2Panda-phone-video-to-LIBERO-retargeting) | Phone videos of a human hand → metric 2D trajectories (ArUco + homography) → motion prior retargeted to a Panda arm in LIBERO; 110/110 simulated runs succeeded, including held-out demos |
 | 🌫️ [`cloud-connected-aqi-network`](https://github.com/amnaahmad43200/cloud-connected-aqi-network) | ESP32 air quality sensor network with cloud ML forecasting, ~97.5% battery savings |
 | 🚁 [`crazyflie-flight-control`](https://github.com/amnaahmad43200/crazyflie-flight-control) | Flight control & telemetry logging for the Crazyflie 2.1 drone |
+| 🤖 [`openmanipulator-pick-and-sort`](https://github.com/amnaahmad43200/openmanipulator-pick-and-sort) | ROS 2 + MoveIt 2 pick-and-sort for the OpenManipulator-X: gripper-based size detection, YAML config, automatic mode, unit tests |
 | 🩺 [`melanoma_classification`](https://github.com/SamranKhalil/melanoma_classification) *(group project)* | Explainable melanoma classification — built the ConvNeXt-Tiny model + Grad-CAM interpretability, as part of a 5-person team |
-
-
