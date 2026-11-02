@@ -44,4 +44,4 @@ MSc Computer Vision, Robotics & Machine Learning @ University of Surrey (2027) �
 | 🌫️ [`cloud-connected-aqi-network`](https://github.com/amnaahmad43200/cloud-connected-aqi-network) | ESP32 air quality sensor network with cloud ML forecasting, ~97.5% battery savings |
 | 🚁 [`crazyflie-flight-control`](https://github.com/amnaahmad43200/crazyflie-flight-control) | Flight control & telemetry logging for the Crazyflie 2.1 drone |
 | 🤖 [`openmanipulator-pick-and-sort`](https://github.com/amnaahmad43200/openmanipulator-pick-and-sort) | ROS 2 + MoveIt 2 pick-and-sort for the OpenManipulator-X: gripper-based size detection, YAML config, automatic mode, unit tests |
-| 🩺 [`melanoma_classification`](https://github.com/SamranKhalil/melanoma_classification) *(group project)* | Explainable melanoma classification — built the ConvNeXt-Tiny model + Grad-CAM interpretability, as part of a 5-person team |
+| 🩺 [`melanoma_classification`](https://github.com/SamranKhalil/melanoma_classification/tree/main/Amna) *(group project)* | Explainable melanoma classification — built the ConvNeXt-Tiny model + Grad-CAM interpretability, as part of a 5-person team |
